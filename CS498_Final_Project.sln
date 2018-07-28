@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS498_Map", "CS498_Map", "{A9902D37-FD63-44B5-AAAE-560707DFFE20}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Week 2\Assignment 2\global-commodity-trade-statistics\Global_Imp_Exp_Volumes.csv = ..\..\Week 2\Assignment 2\global-commodity-trade-statistics\Global_Imp_Exp_Volumes.csv
+		index.html = index.html
+		SavingOldWork.html = SavingOldWork.html
+		..\..\..\..\..\Downloads\us-10m.v1.json = ..\..\..\..\..\Downloads\us-10m.v1.json
+		..\..\..\..\..\Downloads\d3-book-2.0.3\d3-book-2.0.3\chapter_14\us-states.json = ..\..\..\..\..\Downloads\d3-book-2.0.3\d3-book-2.0.3\chapter_14\us-states.json
+		world_countries.json = world_countries.json
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
