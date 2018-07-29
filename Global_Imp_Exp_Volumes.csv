@@ -1,123 +1,123 @@
-﻿country,value
-Afghanistan,14261.2
-Albania,13262.6
-Algeria,154163.6
-Antigua and Barbuda,1103.1
-Argentina,226674.8
-Armenia,10052.5
-Aruba,2423.8
-Australia,758069.7
-Bahrain,53489.7
-Barbados,3998.6
-Belarus,95943.4
-Belgium,1450990.5
-Belize,2226.9
-Benin,5903.3
-Bermuda,1844.7
-Bosnia Herzegovina,27006.0
-Botswana,25838.5
-Brazil,576845.1
-Bulgaria,98991.4
-Cabo Verde,1318.4
-Cambodia,41969.6
-Canada,1350598.7
-Chile,209388.9
-China,5224297.6
-"China, Hong Kong SAR",1381315.2
-"China, Macao SAR",18063.0
-Colombia,129100.5
-Costa Rica,38233.2
-Croatia,55864.9
-Cyprus,14519.0
-Czech Rep.,394338.1
-Denmark,274102.6
-Dominican Rep.,40920.7
-Ecuador,57472.4
-Egypt,127029.7
-El Salvador,22697.8
-Estonia,44807.7
-Ethiopia,30324.7
-Fiji,4994.7
-Finland,172171.8
-France,1552606.3
-Georgia,14366.1
-Germany,3279647.2
-Ghana,34698.2
-Greece,123952.5
-Greenland,1691.1
-Guyana,5006.5
-Hungary,245803.7
-Iceland,14350.9
-India,947869.2
-Indonesia,413073.3
-Iraq,87547.9
-Ireland,304824.3
-Israel,182427.4
-Italy,1162047.8
-Jamaica,8703.2
-Japan,1625101.7
-Jordan,39044.0
-Kazakhstan,97817.4
-Kyrgyzstan,7939.5
-Lao People's Dem. Rep.,10093.0
-Latvia,34148.4
-Lithuania,72855.5
-Luxembourg,40109.3
-Madagascar,7889.2
-Malaysia,440295.3
-Maldives,2993.2
-Mali,8940.2
-Malta,18368.9
-Mauritania,5846.9
-Mauritius,9447.2
-Mexico,886269.3
-Mongolia,11389.5
-Montenegro,3250.2
-Morocco,77435.1
-Myanmar,32996.7
-Namibia,14573.2
-Netherlands,973263.0
-New Zealand,92830.0
-Niger,4062.6
-Norway,185482.1
-Oman,57903.1
-"Other Asia, nes",548041.5
-Pakistan,75339.6
-Palau,193.6
-Panama,22062.2
-Paraguay,21816.2
-Peru,93301.9
-Philippines,159726.1
-Poland,432944.3
-Portugal,139226.4
-Qatar,105744.4
-Rep. of Korea,990379.8
-Rep. of Moldova,7305.4
-Romania,157631.7
-Russian Federation,558935.7
-Rwanda,2811.3
-Samoa,439.3
-Sao Tome and Principe,195.9
-Senegal,9686.5
-Serbia,41561.2
-Seychelles,2835.4
-Sierra Leone,1624.8
-Singapore,662905.1
-Slovakia,159602.5
-Solomon Isds,988.4
-South Africa,175043.5
-Spain,640148.8
-Sri Lanka,33613.0
-Suriname,3514.6
-Sweden,310131.1
-Switzerland,600242.2
-TFYR of Macedonia,12522.1
-Togo,2709.3
-Tunisia,36318.0
-Turkey,385494.4
-United Arab Emirates,828340.0
-United Kingdom,1168181.3
-United Rep. of Tanzania,14228.7
-Uruguay,16659.8
-USA,4173521.2
-Zimbabwe,10198.6
+country,value
+Afghanistan,0.000367
+Albania,0.000341
+Algeria,0.003963
+Antigua and Barbuda,0.000028
+Argentina,0.005827
+Armenia,0.000258
+Aruba,0.000062
+Australia,0.019487
+Bahrain,0.001375
+Barbados,0.000103
+Belarus,0.002466
+Belgium,0.037299
+Belize,0.000057
+Benin,0.000152
+Bermuda,0.000047
+Bosnia and Herzegovina,0.000694
+Botswana,0.000664
+Brazil,0.014828
+Bulgaria,0.002545
+Cabo Verde,0.000034
+Cambodia,0.001079
+Canada,0.034718
+Chile,0.005383
+China,0.134295
+"China, Hong Kong SAR",0.035508
+"China, Macao SAR",0.000464
+Colombia,0.003319
+Costa Rica,0.000983
+Croatia,0.001436
+Cyprus,0.000373
+Czech Republic,0.010137
+Denmark,0.007046
+Dominican Republic,0.001052
+Ecuador,0.001477
+Egypt,0.003265
+El Salvador,0.000583
+England,0.030029
+Estonia,0.001152
+Ethiopia,0.000780
+Fiji,0.000128
+Finland,0.004426
+France,0.039911
+Georgia,0.000369
+Germany,0.084306
+Ghana,0.000892
+Greece,0.003186
+Greenland,0.000043
+Guyana,0.000129
+Hungary,0.006319
+Iceland,0.000369
+India,0.024366
+Indonesia,0.010618
+Iraq,0.002250
+Ireland,0.007836
+Israel,0.004689
+Italy,0.029871
+Jamaica,0.000224
+Japan,0.041775
+Jordan,0.001004
+Kazakhstan,0.002514
+Kyrgyzstan,0.000204
+Laos,0.000259
+Latvia,0.000878
+Lithuania,0.001873
+Luxembourg,0.001031
+Macedonia,0.000322
+Madagascar,0.000203
+Malaysia,0.011318
+Maldives,0.000077
+Mali,0.000230
+Malta,0.000472
+Mauritania,0.000150
+Mauritius,0.000243
+Mexico,0.022782
+Moldova,0.000188
+Mongolia,0.000293
+Montenegro,0.000084
+Morocco,0.001991
+Myanmar,0.000848
+Namibia,0.000375
+Netherlands,0.025018
+New Zealand,0.002386
+Niger,0.000104
+Norway,0.004768
+Oman,0.001488
+"Other Asia, nes",0.014088
+Pakistan,0.001937
+Palau,0.000005
+Panama,0.000567
+Paraguay,0.000561
+Peru,0.002398
+Philippines,0.004106
+Poland,0.011129
+Portugal,0.003579
+Qatar,0.002718
+Republic of Serbia,0.001068
+Romania,0.004052
+Russia,0.014368
+Rwanda,0.000072
+Samoa,0.000011
+Sao Tome and Principe,0.000005
+Senegal,0.000249
+Seychelles,0.000073
+Sierra Leone,0.000042
+Singapore,0.017040
+Slovakia,0.004103
+Solomon Islands,0.000025
+South Africa,0.004500
+South Korea,0.025458
+Spain,0.016456
+Sri Lanka,0.000864
+Suriname,0.000090
+Sweden,0.007972
+Switzerland,0.015430
+Togo,0.000070
+Tunisia,0.000934
+Turkey,0.009909
+United Arab Emirates,0.021293
+United Republic of Tanzania,0.000366
+Uruguay,0.000428
+USA,0.107284
+Zimbabwe,0.000262
