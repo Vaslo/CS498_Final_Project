@@ -7,6 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CS498_Map", "CS498_Map", "{
 	ProjectSection(SolutionItems) = preProject
 		..\..\Week 2\Assignment 2\global-commodity-trade-statistics\Global_Imp_Exp_Volumes.csv = ..\..\Week 2\Assignment 2\global-commodity-trade-statistics\Global_Imp_Exp_Volumes.csv
 		Index.html = Index.html
+		Next_7.html = Next_7.html
 		opening.html = opening.html
 		SavingOldWork.html = SavingOldWork.html
 		..\..\..\..\..\Downloads\us-10m.v1.json = ..\..\..\..\..\Downloads\us-10m.v1.json

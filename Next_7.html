@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>D3: Global Net Imports/Exports of the largest 3 traders</title>
+    <title>D3: Global Net Imports/Exports of the next 7 largest traders</title>
     <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
 
     <style type="text/css">
@@ -87,7 +87,7 @@
 <body>
 
     <div id="container">
-        <h1>50% of the world's trade is controlled by 10 countries</h1>
+        <h1>The next 25% are made up of 7 more countries...</h1>
 
 
         <div id="chart">
@@ -103,7 +103,7 @@
         </div>
 
 
-        <p>Keep in mind there are over 200 countries in the world.  This means that ~5% of all the countries control import/export</p>
+        <p>There is a lot of room for the 4-5% volume traders after the big 3</p>
         <div id="footer">
             <p>Data available at:<a href="https://comtrade.un.org/data/">the UN Comtrade Website.</a>  Missing or negligible data is colored gray.
         </div>
@@ -141,22 +141,6 @@
 
         //Labels array for reading into the "Text" labels below
         var labels = [
-            {
-                x: 100,
-                y: 150,
-                text: 'US: 10.7%'
-            },
-            {
-                x: 450,
-                y: 50,
-                text: 'Germany: 8.4%'
-            },
-            {
-                x: 940,
-                y: 190,
-                text: 'China: 13.4%'
-
-            },
             {
                 x: 900,
                 y: 100,
@@ -214,24 +198,6 @@
         //Lines array for reading into the "Line" below, these will point to the countries
         var lines = [
             {
-                x1: 140,
-                x2: 200,
-                y1: 140,
-                y2: 130
-            },
-            {
-                x1: 450,
-                x2: 520,
-                y1: 60,
-                y2: 90
-            },
-            {
-                x1: 800,
-                x2: 890,
-                y1: 170,
-                y2: 180
-            },
-            {
                 x1: 880,
                 x2: 900,
                 y1: 130,
@@ -273,7 +239,6 @@
                 y1: 80,
                 y2: 50
             }
-
         ]
 
         //Simple text for legend labels
