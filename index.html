@@ -5,7 +5,6 @@
     <title>D3: Global Net Imports/Exports of the largest 3 traders</title>
     <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
 
-
     <style type="text/css">
         .label {
             font-weight: bold;
@@ -46,6 +45,42 @@
             line-height: 14px;
             color: black;
         }
+
+        .link-back-btn {
+            color: white;
+            background: #7fcad0;
+            padding: 10px 20px;
+            margin: 10px 0px;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 13px;
+            height: 20px;
+            width: 450px;
+            float: left;
+        }
+
+            .link-back-btn:hover {
+                background: #6ab8be;
+            }
+
+        .link-fwd-btn {
+            color: white;
+            background: #7fcad0;
+            padding: 10px 20px;
+            margin: 10px 0;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 13px;
+            width: 450px;
+            height: 20px;
+            float: right;
+        }
+
+            .link-fwd-btn:hover {
+                background: #6ab8be;
+            }
     </style>
 </head>
 <body>
@@ -57,7 +92,15 @@
         <div id="chart">
             <h2>Total Volume of Exports (Import + Export) for 2016</h2>
         </div>
-        <div style="display:inline-block;" id="legend"></div>
+
+
+        <div id="buttons">
+
+            <a href="index.html" class="link-back-btn">Go Back</a>
+            <a href="index.html" class="link-fwd-btn">Go Forward</a>
+
+        </div>
+
 
         <p>Despite many global trading partners, it's clear that the US, China, and (suprisingly) Germany drive a quarter of the volume of global trade.</p>
         <div id="footer">
